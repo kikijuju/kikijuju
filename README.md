@@ -164,7 +164,7 @@
 
 </div>
 
-<h3 align="center">🚀 프로젝트 (Projects)</h3>
+<h3 align="center">🚀 Projects</h3>
 <div align="center">
 
 <table>
