@@ -97,7 +97,7 @@
     <tr>
       <td><b>ECOAI LAB</b></td>
       <td>2023.12. ~ 2024.11.</td>
-      <td>국립한밭대학교 ECOAI 랩실 학부연구생</td>
+      <td>ECOAI 랩실 학부연구생</td>
     </tr>
     <tr>
       <td><b>소프트웨어중심대학봉사단 3기</b></td>
@@ -122,7 +122,7 @@
     <tr>
       <td><b>ICIS LAB</b></td>
       <td>2024.12. ~</td>
-      <td>국립한밭대학교 ICIS 랩실 학부연구생</td>
+      <td>ICIS 랩실 학부연구생</td>
     </tr>
     <tr>
       <td><b>SW 네트워크 및 정보보안 특강</b></td>
